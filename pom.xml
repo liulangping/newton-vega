@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.alang.liu</groupId>
-    <artifactId>vega</artifactId>
+    <artifactId>newton-vega</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>vega</name>
+    <name>newton-vega</name>
 
     <properties>
         <java.version>1.8</java.version>
