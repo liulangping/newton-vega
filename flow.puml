@@ -1,0 +1,29 @@
+@startuml
+start
+:(0)-A;
+:(0)-B;
+	split
+	:(1)-c;
+		split
+		:(2)-f;
+		:(2)-h;
+			split
+			:(3)-i;
+			split again
+			:(3)-j;
+			end split
+		split again
+		:(2)-g;
+		:(2)-h;
+			split
+			:(3)-i;
+			split again
+			:(3)-j;
+			end split
+		end split
+	split again
+	:(1)-d;
+	:(1)-i;
+	end split
+stop
+@enduml
